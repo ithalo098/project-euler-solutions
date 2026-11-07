@@ -1,3 +1,17 @@
+# Project Euler Solutions
+
+Soluções em JavaScript para desafios matemáticos do Project Euler e freeCodeCamp.
+
+## Estrutura
+
+- [`package.json`](./package.json)
+
+## Visão geral
+
+O código e os materiais deste repositório estão organizados para consulta e evolução do projeto. As funcionalidades descritas refletem os arquivos presentes, sem pressupor uma publicação em produção.
+
+## Documentação do projeto
+
 # Atividade - 30/06
 
 Atividade: resolver as questões **4, 5, 7, 15 e 36**
@@ -40,7 +54,6 @@ git init
 git add .
 git commit -m "Resolução das questões 4, 5, 7, 15 e 36 do Project Euler"
 git branch -M main
-git remote add origin (https://github.com/ithalo098/project-euler-fcc)
+git remote add origin (https://github.com/ithalo098/project-euler-solutions)
 git push -u origin main
 ```
-
